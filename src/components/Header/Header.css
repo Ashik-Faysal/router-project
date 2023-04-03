@@ -1,0 +1,13 @@
+.nav-link a {
+  margin-right: 1em;
+  border: 2px solid rgb(223, 163, 183);
+  padding: 0.5em;
+  border-radius: 1em;
+  font-size: larger;
+}
+
+.nav-link a:hover {
+    background-color: white;
+    color: black;
+
+}
